@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio 11.0\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="11.0">
+ <Targets>
+  <Target Name="C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\Kinect.Toolbox.Voice\bin\Debug\Kinect.Toolbox.Voice.dll">
+   <Modules>
+    <Module Name="kinect.toolbox.voice.dll">
+     <Namespaces>
+      <Namespace Name="Kinect.Toolbox.Voice">
+       <Types>
+        <Type Name="VoiceCommander" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="TypesThatOwnDisposableFieldsShouldBeDisposable" Category="Microsoft.Design" CheckId="CA1001" Status="Active" Created="2014-11-13 15:58:55Z" FixCategory="DependsOnFix">
+           <Issue Name="DependsOnFix" Certainty="95" Level="CriticalError">IDisposable 형식 'SpeechRecognitionEngine'의 멤버가 만들어지므로 'VoiceCommander'에 IDisposable을 구현하십시오. 'VoiceCommander'이(가) 이전에 제공된 경우 이 형식에 IDisposable을 구현하는 새 멤버를 추가하면 기존 소비자가 빌드되지 않습니다.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="TypesThatOwnDisposableFieldsShouldBeDisposable" Category="Microsoft.Design" CheckId="CA1001">
+   <Name>삭제 가능한 필드가 있는 형식은 삭제 가능해야 합니다.</Name>
+   <Description>삭제 가능한 멤버를 선언하는 형식은 IDisposable도 구현해야 합니다. 이 형식에 관리되지 않는 리소스가 없는 경우 형식에 종료자를 구현하지 마십시오.</Description>
+   <Resolution Name="DependsOnFix">IDisposable 형식 {1}의 멤버가 만들어지므로 {0}에 IDisposable을 구현하십시오. {0}이(가) 이전에 제공된 경우 이 형식에 IDisposable을 구현하는 새 멤버를 추가하면 기존 소비자가 빌드되지 않습니다.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182172(VS.100).aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalError</MessageLevel>
+   <File Name="designrules.dll" Version="11.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">범주</String>
+  <String Key="Certainty">확신도</String>
+  <String Key="CollapseAll">모두 축소</String>
+  <String Key="CheckId">확인 ID</String>
+  <String Key="Error">오류</String>
+  <String Key="Errors">개 오류</String>
+  <String Key="ExpandAll">모두 확장</String>
+  <String Key="Help">도움말</String>
+  <String Key="Line">줄</String>
+  <String Key="Messages">메시지</String>
+  <String Key="LocationNotStoredInPdb">[Pdb에 위치가 저장되지 않음]</String>
+  <String Key="Project">프로젝트</String>
+  <String Key="Resolution">확인</String>
+  <String Key="Rule">규칙</String>
+  <String Key="RuleFile">규칙 파일</String>
+  <String Key="RuleDescription">규칙 설명</String>
+  <String Key="Source">소스</String>
+  <String Key="Status">상태</String>
+  <String Key="Target">대상</String>
+  <String Key="Warning">경고</String>
+  <String Key="Warnings">경고</String>
+  <String Key="ReportTitle">코드 분석 보고서</String>
+ </Localized>
+</FxCopReport>

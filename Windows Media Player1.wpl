@@ -1,0 +1,22 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.17514"/>
+        <meta name="ItemCount" content="4"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
+        <author/>
+        <title>노래</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\..\..\Public\Music\Sample Music\Sleep Away.mp3" tid="{BF37062D-3372-48E7-A9A6-017359D76C50}"/>
+            <media src="..\..\..\Public\Music\Sample Music\Kalimba.mp3" cid="{4F0FA0F3-3D95-471A-B0D2-9DCB30A9BBAE}" tid="{69F722F6-B813-4689-8357-8FAF9DD9B05E}"/>
+            <media src="..\..\..\Public\Music\Sample Music\Maid with the Flaxen Hair.mp3" cid="{02D6EA78-6814-45F7-808D-C255FCE1487B}" tid="{95A7FBA4-E293-450B-A8DB-5B0B4B9BE78F}"/>
+            <media src="..\..\..\Public\Music\Sample Music\Dreaming Leaf.mp3" tid="{A709EB7C-C22F-45B4-916A-9E8614B1AE93}"/>
+        </seq>
+    </body>
+</smil>

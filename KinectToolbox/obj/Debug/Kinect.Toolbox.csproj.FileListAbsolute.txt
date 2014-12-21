@@ -1,0 +1,110 @@
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\bin\Debug\Kinect.Toolbox.dll
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\bin\Debug\Kinect.Toolbox.pdb
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\obj\Debug\Kinect.Toolbox.csprojResolveAssemblyReference.cache
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\obj\Debug\Controls\PresenceControl.baml
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\obj\Debug\Controls\MouseImpostor.baml
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\obj\Debug\Controls\PresenceControl.g.cs
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\obj\Debug\Controls\MouseImpostor.g.cs
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\obj\Debug\Kinect.Toolbox_MarkupCompile.cache
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\obj\Debug\Kinect.Toolbox.g.resources
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\obj\Debug\Kinect.Toolbox.dll
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\obj\Debug\Kinect.Toolbox.pdb
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\obj\Debug\Kinect.Toolbox.csprojResolveAssemblyReference.cache
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\obj\Debug\Controls\PresenceControl.baml
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\obj\Debug\Controls\MouseImpostor.baml
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\obj\Debug\Controls\PresenceControl.g.cs
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\obj\Debug\Controls\MouseImpostor.g.cs
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\obj\Debug\Kinect.Toolbox_MarkupCompile.cache
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\obj\Debug\Kinect.Toolbox.g.resources
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\obj\Debug\Kinect.Toolbox.dll
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\bin\Debug\Kinect.Toolbox.dll
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\bin\Debug\Kinect.Toolbox.pdb
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\obj\Debug\Kinect.Toolbox.pdb
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\bin\Debug\Kinect.Toolbox.dll
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\bin\Debug\Kinect.Toolbox.pdb
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\bin\Debug\Kinect.Toolbox.dll.CodeAnalysisLog.xml
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\bin\Debug\Kinect.Toolbox.dll.lastcodeanalysissucceeded
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\obj\Debug\Kinect.Toolbox.csprojResolveAssemblyReference.cache
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\obj\Debug\Controls\PresenceControl.baml
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\obj\Debug\Controls\MouseImpostor.baml
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\obj\Debug\Controls\PresenceControl.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\obj\Debug\Controls\MouseImpostor.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\obj\Debug\Kinect.Toolbox_MarkupCompile.cache
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\obj\Debug\Kinect.Toolbox.g.resources
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\obj\Debug\Kinect.Toolbox.dll
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\obj\Debug\Kinect.Toolbox.pdb
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\bin\Debug\Kinect.Toolbox.dll
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\bin\Debug\Kinect.Toolbox.pdb
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\obj\Debug\Kinect.Toolbox.csprojResolveAssemblyReference.cache
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\obj\Debug\Controls\PresenceControl.baml
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\obj\Debug\Controls\MouseImpostor.baml
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\obj\Debug\Controls\PresenceControl.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\obj\Debug\Controls\MouseImpostor.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\obj\Debug\Kinect.Toolbox_MarkupCompile.cache
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\obj\Debug\Kinect.Toolbox.g.resources
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\obj\Debug\Kinect.Toolbox.dll
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\obj\Debug\Kinect.Toolbox.pdb
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\bin\Debug\Kinect.Toolbox.dll
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\bin\Debug\Kinect.Toolbox.pdb
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\obj\Debug\Kinect.Toolbox.csprojResolveAssemblyReference.cache
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\obj\Debug\Controls\PresenceControl.baml
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\obj\Debug\Controls\MouseImpostor.baml
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\obj\Debug\Controls\PresenceControl.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\obj\Debug\Controls\MouseImpostor.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\obj\Debug\Kinect.Toolbox_MarkupCompile.cache
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\obj\Debug\Kinect.Toolbox.g.resources
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\obj\Debug\Kinect.Toolbox.dll
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\obj\Debug\Kinect.Toolbox.pdb
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\bin\Debug\Kinect.Toolbox.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\bin\Debug\Kinect.Toolbox.pdb
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\obj\Debug\Kinect.Toolbox.csprojResolveAssemblyReference.cache
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\obj\Debug\Controls\PresenceControl.baml
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\obj\Debug\Controls\MouseImpostor.baml
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\obj\Debug\Controls\PresenceControl.g.cs
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\obj\Debug\Controls\MouseImpostor.g.cs
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\obj\Debug\Kinect.Toolbox_MarkupCompile.cache
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\obj\Debug\Kinect.Toolbox.g.resources
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\obj\Debug\Kinect.Toolbox.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\obj\Debug\Kinect.Toolbox.pdb
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\bin\Debug\Kinect.Toolbox.dll
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\bin\Debug\Kinect.Toolbox.pdb
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\obj\Debug\Kinect.Toolbox.csprojResolveAssemblyReference.cache
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\obj\Debug\Controls\PresenceControl.baml
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\obj\Debug\Controls\MouseImpostor.baml
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\obj\Debug\Controls\PresenceControl.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\obj\Debug\Controls\MouseImpostor.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\obj\Debug\Kinect.Toolbox_MarkupCompile.cache
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\obj\Debug\Kinect.Toolbox.g.resources
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\obj\Debug\Kinect.Toolbox.dll
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\obj\Debug\Kinect.Toolbox.pdb
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\bin\Debug\Kinect.Toolbox.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\bin\Debug\Kinect.Toolbox.pdb
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\obj\Debug\Kinect.Toolbox.csprojResolveAssemblyReference.cache
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\obj\Debug\Controls\PresenceControl.baml
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\obj\Debug\Controls\MouseImpostor.baml
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\obj\Debug\Controls\PresenceControl.g.cs
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\obj\Debug\Controls\MouseImpostor.g.cs
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\obj\Debug\Kinect.Toolbox_MarkupCompile.cache
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\obj\Debug\Kinect.Toolbox.g.resources
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\obj\Debug\Kinect.Toolbox.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\obj\Debug\Kinect.Toolbox.pdb
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\bin\Debug\Kinect.Toolbox.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\bin\Debug\Kinect.Toolbox.pdb
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\obj\Debug\Kinect.Toolbox.csprojResolveAssemblyReference.cache
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\obj\Debug\Controls\PresenceControl.baml
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\obj\Debug\Controls\MouseImpostor.baml
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\obj\Debug\Controls\PresenceControl.g.cs
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\obj\Debug\Controls\MouseImpostor.g.cs
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\obj\Debug\Kinect.Toolbox_MarkupCompile.cache
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\obj\Debug\Kinect.Toolbox.g.resources
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\obj\Debug\Kinect.Toolbox.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\obj\Debug\Kinect.Toolbox.pdb

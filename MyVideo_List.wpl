@@ -1,0 +1,24 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7601.18150"/>
+        <meta name="ItemCount" content="6"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
+        <author/>
+        <title>MyVideo_List</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\..\Desktop\Jarvis.For.Free.Real\video\wild3.wmv"/>
+            <media src="..\..\Desktop\Jarvis.For.Free.Real\video\X-Art - Baby (Together Again __ HOT __ 5 january 2013 .mp4"/>
+            <media src="..\..\Desktop\Jarvis.For.Free.Real\video\X-Art - Much Needed Vacation - Kristen [1080p].mov"/>
+            <media src="..\..\Desktop\Jarvis.For.Free.Real\video\x-art_kaylee_still_with_me_540.mov"/>
+            <media src="..\..\Desktop\Jarvis.For.Free.Real\video\wild.wmv"/>
+            <media src="..\..\Desktop\Jarvis.For.Free.Real\video\wild2.wmv"/>
+        </seq>
+    </body>
+</smil>

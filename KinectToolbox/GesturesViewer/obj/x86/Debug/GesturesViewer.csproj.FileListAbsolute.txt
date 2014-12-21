@@ -1,0 +1,278 @@
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\GesturesViewer\bin\Debug\FaceTrackData.dll
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\GesturesViewer\bin\Debug\FaceTrackLib.dll
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\GesturesViewer\bin\Debug\Data\circleKB.save
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\GesturesViewer\bin\Debug\Data\t_KB.save
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\GesturesViewer\bin\Debug\GesturesViewer.exe
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\GesturesViewer\bin\Debug\GesturesViewer.pdb
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.dll
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.Voice.dll
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\GesturesViewer\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.pdb
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.Voice.pdb
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.csprojResolveAssemblyReference.cache
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\GesturesViewer\obj\x86\Debug\MainWindow.baml
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\GesturesViewer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\GesturesViewer\obj\x86\Debug\App.g.cs
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer_Content.g.cs
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer_MarkupCompile.cache
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.g.resources
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.Properties.Resources.resources
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.csproj.GenerateResource.Cache
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.exe
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.pdb
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\GesturesViewer\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\GesturesViewer\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\GesturesViewer\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\Remoted\Desktop\KinectToolbox\KinectToolbox\GesturesViewer\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.exe
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.pdb
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.csprojResolveAssemblyReference.cache
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\MainWindow.baml
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\PicturePanel.g.cs
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\App.g.cs
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer_Content.g.cs
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer_MarkupCompile.cache
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer_MarkupCompile.lref
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\bin\Debug\FaceTrackData.dll
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\bin\Debug\FaceTrackLib.dll
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\bin\Debug\Data\circleKB.save
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\bin\Debug\Data\t_KB.save
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\bin\Debug\GesturesViewer.exe
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\bin\Debug\GesturesViewer.pdb
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.dll
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.Voice.dll
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.pdb
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.Voice.pdb
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\PicturePanel.baml
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.g.resources
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.Properties.Resources.resources
+C:\Users\park\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.csproj.GenerateResource.Cache
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.exe
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.pdb
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\GesturesViewer\bin\Debug\FaceTrackData.dll
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\GesturesViewer\bin\Debug\FaceTrackLib.dll
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\GesturesViewer\bin\Debug\Data\circleKB.save
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\GesturesViewer\bin\Debug\Data\t_KB.save
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\GesturesViewer\bin\Debug\GesturesViewer.exe
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\GesturesViewer\bin\Debug\GesturesViewer.pdb
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.dll
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.Voice.dll
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\GesturesViewer\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.pdb
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.Voice.pdb
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.csprojResolveAssemblyReference.cache
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\GesturesViewer\obj\x86\Debug\docPanel.baml
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\GesturesViewer\obj\x86\Debug\MainWindow.baml
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\GesturesViewer\obj\x86\Debug\docPanel.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\GesturesViewer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\GesturesViewer\obj\x86\Debug\PicturePanel.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\GesturesViewer\obj\x86\Debug\App.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer_Content.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\GesturesViewer\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer_MarkupCompile.cache
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer_MarkupCompile.lref
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\GesturesViewer\obj\x86\Debug\PicturePanel.baml
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.g.resources
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.Properties.Resources.resources
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.csproj.GenerateResource.Cache
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\GesturesViewer\obj\x86\Debug\VideoPanel2.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전\KinectToolbox\GesturesViewer\obj\x86\Debug\VideoPanel2.baml
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.exe
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.pdb
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\bin\Debug\FaceTrackData.dll
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\bin\Debug\FaceTrackLib.dll
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\bin\Debug\Data\circleKB.save
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\bin\Debug\Data\t_KB.save
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\bin\Debug\GesturesViewer.exe
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\bin\Debug\GesturesViewer.pdb
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.dll
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.Voice.dll
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.pdb
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.Voice.pdb
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.csprojResolveAssemblyReference.cache
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\MainWindow.baml
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\docPanel.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\PicturePanel.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\VideoPanel2.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\App.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer_Content.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer_MarkupCompile.cache
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer_MarkupCompile.lref
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\docPanel.baml
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\PicturePanel.baml
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\VideoPanel2.baml
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.g.resources
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.Properties.Resources.resources
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.csproj.GenerateResource.Cache
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.exe
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.pdb
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\GesturesViewer\bin\Debug\FaceTrackData.dll
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\GesturesViewer\bin\Debug\FaceTrackLib.dll
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\GesturesViewer\bin\Debug\Data\circleKB.save
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\GesturesViewer\bin\Debug\Data\t_KB.save
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\GesturesViewer\bin\Debug\GesturesViewer.exe
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\GesturesViewer\bin\Debug\GesturesViewer.pdb
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.dll
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.Voice.dll
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\GesturesViewer\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.pdb
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.Voice.pdb
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.csprojResolveAssemblyReference.cache
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\GesturesViewer\obj\x86\Debug\MainWindow.baml
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\GesturesViewer\obj\x86\Debug\docPanel.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\GesturesViewer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\GesturesViewer\obj\x86\Debug\PicturePanel.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\GesturesViewer\obj\x86\Debug\VideoPanel2.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\GesturesViewer\obj\x86\Debug\App.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer_Content.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\GesturesViewer\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer_MarkupCompile.cache
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer_MarkupCompile.lref
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\GesturesViewer\obj\x86\Debug\docPanel.baml
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\GesturesViewer\obj\x86\Debug\PicturePanel.baml
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\GesturesViewer\obj\x86\Debug\VideoPanel2.baml
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.g.resources
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.Properties.Resources.resources
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전16일\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.csproj.GenerateResource.Cache
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.exe
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.pdb
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.csprojResolveAssemblyReference.cache
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\MainWindow.baml
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\docPanel.g.cs
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\PicturePanel.g.cs
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\VideoPanel2.g.cs
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\App.g.cs
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer_Content.g.cs
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer_MarkupCompile.cache
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer_MarkupCompile.lref
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\bin\Debug\FaceTrackData.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\bin\Debug\FaceTrackLib.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\bin\Debug\Data\circleKB.save
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\bin\Debug\Data\t_KB.save
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\bin\Debug\GesturesViewer.exe
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\bin\Debug\GesturesViewer.pdb
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.Voice.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.pdb
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.Voice.pdb
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\docPanel.baml
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\PicturePanel.baml
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\VideoPanel2.baml
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.g.resources
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.Properties.Resources.resources
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.csproj.GenerateResource.Cache
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.exe
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.pdb
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\bin\Debug\FaceTrackData.dll
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\bin\Debug\FaceTrackLib.dll
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\bin\Debug\Data\circleKB.save
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\bin\Debug\Data\t_KB.save
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\bin\Debug\GesturesViewer.exe
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\bin\Debug\GesturesViewer.pdb
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.dll
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.Voice.dll
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.pdb
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.Voice.pdb
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.csprojResolveAssemblyReference.cache
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\MainWindow.baml
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\docPanel.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\PicturePanel.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\VideoPanel2.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\App.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer_Content.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer_MarkupCompile.cache
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer_MarkupCompile.lref
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\docPanel.baml
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\PicturePanel.baml
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\VideoPanel2.baml
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.g.resources
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.Properties.Resources.resources
+C:\Users\park\Desktop\작업\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.csproj.GenerateResource.Cache
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.exe
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.pdb
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\bin\Debug\FaceTrackData.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\bin\Debug\FaceTrackLib.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\bin\Debug\Data\circleKB.save
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\bin\Debug\Data\t_KB.save
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\bin\Debug\GesturesViewer.exe
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\bin\Debug\GesturesViewer.pdb
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.Voice.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.pdb
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.Voice.pdb
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.csprojResolveAssemblyReference.cache
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\MainWindow.baml
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\docPanel.g.cs
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\PicturePanel.g.cs
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\VideoPanel2.g.cs
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\App.g.cs
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer_Content.g.cs
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer_MarkupCompile.cache
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer_MarkupCompile.lref
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\docPanel.baml
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\PicturePanel.baml
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\VideoPanel2.baml
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.g.resources
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.Properties.Resources.resources
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real수정전1 (2)\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.csproj.GenerateResource.Cache
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\bin\Debug\FaceTrackData.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\bin\Debug\FaceTrackLib.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\bin\Debug\Data\circleKB.save
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\bin\Debug\Data\t_KB.save
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\bin\Debug\GesturesViewer.exe
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\bin\Debug\GesturesViewer.pdb
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.Voice.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.pdb
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\bin\Debug\Kinect.Toolbox.Voice.pdb
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.csprojResolveAssemblyReference.cache
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\MainWindow.baml
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\docPanel.g.cs
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\PicturePanel.g.cs
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\VideoPanel2.g.cs
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\App.g.cs
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer_Content.g.cs
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer_MarkupCompile.cache
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer_MarkupCompile.lref
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\docPanel.baml
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\PicturePanel.baml
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\VideoPanel2.baml
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.g.resources
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.Properties.Resources.resources
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.csproj.GenerateResource.Cache
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.exe
+C:\Users\Remoted\Desktop\Jarvis.For.Free.Real\KinectToolbox\GesturesViewer\obj\x86\Debug\GesturesViewer.pdb
